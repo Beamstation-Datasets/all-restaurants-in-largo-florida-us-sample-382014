@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bd8ac7e7-b2f5-433f-9e41-a0730c84ad48",
+  "export_job_id": "b9886473-bf3a-45d6-9b2a-c88324194734",
   "id_short": 382014,
-  "published_at": "2026-04-23T19:19:28Z",
+  "published_at": "2026-05-01T07:04:15Z",
   "repo_name": "all-restaurants-in-largo-florida-us-sample-382014",
   "sample_asset_name": "beamstation_382014_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/382014/beamstation_382014_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 15,
-  "sample_sha256": "996411750e3a0ddbf0dfeec54526bdbe2c74cdc2ee7baef3e07d0a68cb9c06e7",
-  "sample_size_bytes": 65308,
-  "total_records": 159
+  "sample_records": 31,
+  "sample_sha256": "5da9a7007bdece12cfa0b9d26c22a2700045b43cc557e2dba7b26cfd76f24933",
+  "sample_size_bytes": 118403,
+  "total_records": 315
 }
