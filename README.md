@@ -1,6 +1,6 @@
 # All Restaurants in Largo, Florida, US
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `382014` |
 | Location | Largo |
 | Category | Restaurants |
-| Full dataset size | 159 records |
-| Free sample size | 15 records (9.43%) |
-| Last export | 2026-04-23T12:53:13.265127+00:00 |
+| Full dataset size | 315 records |
+| Free sample size | 31 records (9.84%) |
+| Last export | 2026-05-01T00:50:11.136531+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-largo-florida-us-sample-382014/releases/download/sample-latest/beamstation_382014_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
